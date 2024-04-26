@@ -15,10 +15,6 @@ Termin realizacji: 27.04.2024
 - Dodaj przykładowy test Espresso do swojej aplikacji.
 - Uruchom narzędzie Moneky na swojej aplikacji. Wykonaj print screen z działania.
 
-Monkey: trzeba wejsc do folderu: /Users/userName/Library/Android/sdk/platform-tools/adb
-wlaczyc aplikacje
-komenda: emu64a:/ $ monkey -v 500
-
 Wyniki umieść w porzednim repozytorium.
 
 ## Kontynuuj pracę nad Projektem Zaliczeniowym;
@@ -26,3 +22,20 @@ Wyniki umieść w porzednim repozytorium.
 - Dodać listę zadań do systemu śledzenia postępów; przypisz je do konkretnych osób;
 
 Wyślij emaile z podsumowaniem do prowadzącego.
+
+
+Wyniki:  
+
+Analiza statyczna:  
+![Link](https://github.com/s23577/PAMO/tree/main/03_BMI_calculator/code_inspection_result)
+
+Espresso:  
+![Espresso result test](https://github.com/s23577/PAMO/blob/main/03_BMI_calculator/assets/Espresso%20test%20result.png)  
+
+Monkey:  
+trzeba wejsc do folderu: /Users/userName/Library/Android/sdk/platform-tools/adb  
+wlaczyc aplikacje  
+komenda: emu64a:/ $ monkey -v 500
+
+![Monkey result test](https://github.com/s23577/PAMO/blob/main/03_BMI_calculator/assets/Monkey%20test%20result.png)  
+
